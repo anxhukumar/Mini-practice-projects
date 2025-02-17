@@ -1,0 +1,1 @@
+// SCOPE + LEXICAL SCOPE
