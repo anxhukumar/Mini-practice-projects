@@ -24,6 +24,3 @@ Most projects here are:
 - Might contain bugs
 - Could be poorly optimized
 - Might lack proper documentation
-
----
-*Remember: I believe perfection is the enemy of learning, sometimes you just need to play around and have fun with code!*
